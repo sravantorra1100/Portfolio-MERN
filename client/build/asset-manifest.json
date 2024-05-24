@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b022724.css",
+    "main.js": "/static/js/main.de22f6c9.js",
+    "static/media/profileimg.jpg": "/static/media/profileimg.dd2704c2ae481d88ba15.jpg",
+    "static/media/certificateJS.jpg": "/static/media/certificateJS.cc747fb28fad912f143a.jpg",
+    "static/media/sravanresume.pdf": "/static/media/sravanresume.841a9718e01cc8884845.pdf",
+    "static/media/certificateReact.jpg": "/static/media/certificateReact.7cca7b3486055cd8ccaf.jpg",
+    "static/media/freecodecamp.png": "/static/media/freecodecamp.a9b87d28033107460de1.png",
+    "static/media/contactimg.jpg": "/static/media/contactimg.4b149c234aa23a8a516d.jpg",
+    "static/media/text.png": "/static/media/text.71b32e32ab4f0437bc74.png",
+    "index.html": "/index.html",
+    "main.9b022724.css.map": "/static/css/main.9b022724.css.map",
+    "main.de22f6c9.js.map": "/static/js/main.de22f6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b022724.css",
+    "static/js/main.de22f6c9.js"
+  ]
+}
